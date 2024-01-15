@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  background-image: url("https://www.meteo.bzh/media/2020/05/26/96351704_10219289084409365_2062070556802416640_o-20200526-155447.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.App {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 100px;
+  width: 100%;
+}
+
+
